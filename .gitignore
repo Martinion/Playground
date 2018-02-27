@@ -1,0 +1,8 @@
+.vs/*
+Binaries/* 
+Content/StarterContent/*
+Intermediate/*
+Saved/*
+.vs/Playground/v15/.suo
+*.opendb
+*.db
